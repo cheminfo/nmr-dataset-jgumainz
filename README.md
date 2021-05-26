@@ -11,4 +11,11 @@
 - Exercise 6. [View in NMRium](https://www.nmrium.org/teaching#?toc=https://jliermann.github.io/nmr-dataset-jgumainz/data/exercise6.json) | [JSON](./data/exercise6.json)
 - Exercise Stereo. [View in NMRium](https://www.nmrium.org/teaching#?toc=https://jliermann.github.io/nmr-dataset-jgumainz/data/exercise_stereo.json) | [JSON](./data/exercise_stereo.json)
 
-<!-- LINKS -->
+## Link to all the exercises
+
+[https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://cheminfo.github.io/nmr-dataset-jgumainz/toc.json](https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://cheminfo.github.io/nmr-dataset-jgumainz/toc.json)
+
+Links to series
+
+* [1D](https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://cheminfo.github.io/nmr-dataset-jgumainz/toc_1D.json)
+* [2D](https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://cheminfo.github.io/nmr-dataset-jgumainz/toc_2D.json)
