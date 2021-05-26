@@ -11,4 +11,4 @@
 - Exercise 6. [View in NMRium](https://www.nmrium.org/teaching#?toc=https://jliermann.github.io/nmr-dataset-jgumainz/data/exercise6.json) | [JSON](./data/exercise6.json)
 - Exercise Stereo. [View in NMRium](https://www.nmrium.org/teaching#?toc=https://jliermann.github.io/nmr-dataset-jgumainz/data/exercise_stereo.json) | [JSON](./data/exercise_stereo.json)
 
-<!-- LINKS -->
+<-- LINKS -->
