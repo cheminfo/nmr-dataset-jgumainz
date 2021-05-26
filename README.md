@@ -13,9 +13,9 @@
 
 ## Link to all the exercises
 
-[https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://cheminfo.github.io/nmr-dataset-jgumainz/toc.json](https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://cheminfo.github.io/nmr-dataset-jgumainz/toc.json)
+[https://www.nmrium.org/teaching#?toc=https://cheminfo.github.io/nmr-dataset-jgumainz/toc.json](https://www.nmrium.org/teaching#?toc=https://cheminfo.github.io/nmr-dataset-jgumainz/toc.json)
 
 Links to series
 
-* [1D](https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://cheminfo.github.io/nmr-dataset-jgumainz/toc_1D.json)
-* [2D](https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://cheminfo.github.io/nmr-dataset-jgumainz/toc_2D.json)
+* [1D](https://www.nmrium.org/teaching#?toc=https://cheminfo.github.io/nmr-dataset-jgumainz/toc_1D.json)
+* [2D](https://www.nmrium.org/teaching#?toc=https://cheminfo.github.io/nmr-dataset-jgumainz/toc_2D.json)
