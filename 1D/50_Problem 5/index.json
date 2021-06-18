@@ -1,0 +1,28 @@
+{
+  "spectra": [
+    {
+      "source": {
+        "jcampURL": "./1D/50_Problem 5/13c.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./1D/50_Problem 5/1h.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./1D/50_Problem 5/dept.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    }
+  ]
+}
