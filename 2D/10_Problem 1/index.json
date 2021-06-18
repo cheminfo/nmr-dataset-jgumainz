@@ -1,0 +1,36 @@
+{
+  "spectra": [
+    {
+      "source": {
+        "jcampURL": "./2D/10_Problem 1/13c.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./2D/10_Problem 1/1h.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./2D/10_Problem 1/cosy.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./2D/10_Problem 1/hsqc.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    }
+  ]
+}

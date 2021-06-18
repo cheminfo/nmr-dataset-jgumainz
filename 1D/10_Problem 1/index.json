@@ -15,14 +15,6 @@
       "display": {
         "name": ""
       }
-    },
-    {
-      "source": {
-        "jcampURL": "./1D/10_Problem 1/dept.dx"
-      },
-      "display": {
-        "name": ""
-      }
     }
   ]
 }
