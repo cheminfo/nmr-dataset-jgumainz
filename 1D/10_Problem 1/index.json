@@ -2,7 +2,7 @@
   "spectra": [
     {
       "source": {
-        "jcampURL": "./1D/10_Problem 1/13c.dx"
+        "jcampURL": "./13c.dx"
       },
       "display": {
         "name": ""
@@ -10,7 +10,7 @@
     },
     {
       "source": {
-        "jcampURL": "./1D/10_Problem 1/1h.dx"
+        "jcampURL": "./1h.dx"
       },
       "display": {
         "name": ""
